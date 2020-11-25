@@ -7,6 +7,7 @@ def find_max_value(array)
       max_element = array[n]
     end
     n += 1
+  end
     p max_element
 end
 
