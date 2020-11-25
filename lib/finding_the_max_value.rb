@@ -1,6 +1,5 @@
 def find_max_value(array)
   n = 0
-  array = hill
   max_element = 0
   while n < array.length do
     if max_element < array[n] 
